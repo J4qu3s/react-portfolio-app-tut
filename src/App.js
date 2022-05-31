@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout/index';
 
 // https://www.youtube.com/watch?v=bmpI252DmiI
-// at 14.00 
+// at 22 
 
 function App() {
   return (
